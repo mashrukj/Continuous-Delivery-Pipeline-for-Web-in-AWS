@@ -1,6 +1,13 @@
 # AWS Elastic Beanstalk Node.js Sample App
 
-This repository contains a sample Node.js web application built using [Express](https://expressjs.com/), meant to be used as part of the AWS DevOps Learning Path.
+Application Architecture
+The diagram below provides a visual representation of the services used in this tutorial and how they are connected. This application uses GitHub, AWS Elastic Beanstalk, AWS CodeBuild, and AWS CodePipeline as pictured below.
+
+As we go through the tutorial, we will discuss the services in detail and point to resources that will help you get up to speed with them.
+
+image.png
+
+
 
 ## Security
 
